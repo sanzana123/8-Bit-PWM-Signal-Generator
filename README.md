@@ -42,5 +42,3 @@ This project implements an 8-bit Pulse Width Modulation (PWM) generator in Veril
 ## How to Run
 - Open a project in quartus prime and paste the code
 - Build and simulate to see the results
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
